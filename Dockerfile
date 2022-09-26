@@ -1,6 +1,6 @@
 # Truffle in docker
 
-FROM node:17
+FROM node:18.7.0
 
 USER root
 
